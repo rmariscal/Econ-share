@@ -1,5 +1,5 @@
 # Econ-share
-Share code with economists
+Share code with colleagues and people interested on economics
 
 Copyright (C) Rodrigo Mariscal
 
