@@ -1,16 +1,21 @@
-% Replicate CGG, QJE 2000
-%
-% Model: CGG_2000
-%
-% References:
-% Clarida, R., J. Galí, and M. Gertler. 2000. "Monetary Policy Rules and Macroeconomic Stability: Evidence and Some Theory."
-% Quarterly Journal of Economics, February 2000, pp. 147-180.
-%
-% Last edited: 12/20/14 by R. Mariscal (rmariscalparedes@imf.org)
-%
-% This file replicates the Section IV. Interest Rate Rules and Economic Fluctuations
-%
-%**************************************************************************
+/*
+**************************************************************************
+* Replicate CGG, QJE 2000.
+* References:
+* Clarida, R., J. GalÃ­, and M. Gertler. 2000. "Monetary Policy Rules and 
+* Macroeconomic Stability: Evidence and Some Theory." Quarterly Journal 
+* of Economics, February 2000, pp. 147-180.
+* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* Last edited: June-2023
+* Dynare version 5.3
+* Rodrigo Mariscal (rmariscalparedes@gmail.com)
+**************************************************************************
+* This is free software: it is distributed without any warranty, you can 
+* redistribute it or modify under the terms of the GNU General Public Li-
+* cense as published by the Free Software Foundation.
+* GNU General Public License at http://www.gnu.org/licenses/.
+**************************************************************************
+*/
 
 
 %% Adjust path to folder where replication file is stored
