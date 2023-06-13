@@ -6,7 +6,7 @@
 * Macroeconomic Stability: Evidence and Some Theory." Quarterly Journal 
 * of Economics, February 2000, pp. 147-180.
 * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* Last edited: June-2023
+* Last edited: June-2014
 * Dynare version 5.3
 * Rodrigo Mariscal (rmariscalparedes@gmail.com)
 **************************************************************************
