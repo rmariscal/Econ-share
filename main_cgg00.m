@@ -7,7 +7,7 @@
 * of Economics, February 2000, pp. 147-180.
 * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * Last edited: June-2014
-* Dynare version 5.3
+* Dynare version 4.4
 * Rodrigo Mariscal (rmariscalparedes@gmail.com)
 **************************************************************************
 * This is free software: it is distributed without any warranty, you can 
